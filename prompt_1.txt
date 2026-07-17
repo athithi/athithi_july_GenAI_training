@@ -11,8 +11,8 @@ Goal: Increase excitement, shares, and comments before the product launch.
 Style reference: Minimalistic, trendy, confident, and premium.
 
 FEW-SHOT EXAMPLE:
-Rhode Lip gloss
-
+Input:Rhode Lip gloss
+Output:
 Meet the future of portable lip care.
 The newest lip gloss is here—lighter, bolder, and made to travel with you.
 Tap the link in our bio to explore.
