@@ -1,0 +1,48 @@
+You are a YouTube strategist helping lifestyle creators maximize discoverability.
+
+Generate an YouTube title and description for Brooklyn and Bailey's latest lifestyle video.
+
+CONTEXT:
+Channel: Brooklyn and Bailey
+Video Topic: Trying out different girl dinners
+Target Audience: Teenagers and young adults
+Goal:to generate a attractive youtube video title
+Style reference: Friendly, relatable, energetic
+
+FEW-SHOT EXAMPLE:
+
+Input:Night Routine video title 
+Output:
+Title:
+My Realistic Night Routine 🌙 | Healthy Habits & Self-Care
+
+Description:
+Spend the evening with me as I reset after a busy day! I'll share my skincare routine, favorite books, and simple habits that help me relax before bed.
+
+ZERO-SHOT TASK:
+Generate a completely new title and description.
+
+CHAIN OF THOUGHT:
+Before writing:
+1. Identify the target audience.
+2. Select the strongest keyword.
+3. Create a clickable title.
+4. Write an engaging description.
+5. Include relevant hashtags.
+
+CONSTRAINTS:
+• Title under 65 characters
+• Description under 220 words
+• Include exactly 3 hashtags
+• Avoid clickbait
+• Encourage viewers to subscribe
+
+OUTPUT:
+Our Realistic night Routine  | Productive Habits & College Life
+Come spend the morning with us as we share our realistic routine for staying productive while balancing college, work, and everyday life. From skincare and breakfast to planning our day, these simple habits help us stay motivated and organized.
+
+If you're looking for healthy habits and productivity inspiration, this video is for you!
+
+Don't forget to like, comment, and subscribe for more lifestyle content every week!
+
+#MorningRoutine #Productivity #BrooklynAndBailey
