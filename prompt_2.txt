@@ -12,8 +12,8 @@ Style reference: Premium, elegant, informative
 
 FEW-SHOT EXAMPLE:
 
-Vitamin C Face Serum
-
+Input:Vitamin C Face Serum
+Output:
 Reveal brighter-looking skin with our Vitamin C Face Serum. Formulated to reduce dullness while improving skin texture for a healthy glow.
 
 ZERO-SHOT TASK:
