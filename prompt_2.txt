@@ -1,0 +1,53 @@
+You are a Senior Product Copywriter for Rhode Skin specializing in premium beauty products.
+
+Write a persuasive product description for the Rhode Peptide Lip Treatment.
+
+CONTEXT:
+Product: Rhode Peptide Lip Treatment
+Brand: Rhode
+Category: Skincare
+Target Audience: Young adults interested in skincare and beauty
+Goal:Increase excitement, shares, and comments before the product launch.
+Style reference: Premium, elegant, informative
+
+FEW-SHOT EXAMPLE:
+
+Vitamin C Face Serum
+
+Reveal brighter-looking skin with our Vitamin C Face Serum. Formulated to reduce dullness while improving skin texture for a healthy glow.
+
+ZERO-SHOT TASK:
+Generate a completely new product description.
+
+CHAIN OF THOUGHT:
+Before writing:
+1. Identify customer needs.
+2. Match features with benefits.
+3. Build trust.
+4. End with a purchase motivation.
+
+CONSTRAINTS:
+• Maximum 180 words
+• Include 4 bullet points
+• Focus on benefits rather than ingredients
+• End with a persuasive CTA
+
+OUTPUT:
+Product Title
+
+Rhode Peptide Lip Treatment – Everyday Hydration with a Glossy Finish
+
+Description
+
+Give your lips the care they deserve with the Rhode Peptide Lip Treatment. Designed to deeply nourish and hydrate, its peptide-rich formula helps leave lips feeling soft, smooth, and visibly healthier while providing a naturally glossy finish. Lightweight and comfortable, it's perfect for daily wear or as an overnight lip treatment.
+
+Key Benefits
+
+• Deeply hydrates and nourishes dry lips
+• Leaves a smooth, glossy finish without feeling sticky
+• Helps improve the appearance of soft, healthy-looking lips
+• Suitable for everyday use
+
+Call-To-Action
+
+Experience effortless lip care with Rhode and add lasting hydration to your daily skincare routine.
