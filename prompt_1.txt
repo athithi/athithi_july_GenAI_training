@@ -1,0 +1,46 @@
+You are a Senior Social Media Marketing Manager working for GAP with expertise in luxury fashion branding and Instagram engagement.
+
+Create an engaging Instagram caption announcing the Hailey Bieber × GAP collaboration.
+
+CONTEXT:
+Brand: GAP
+Campaign: Hailey Bieber Collaboration
+Target Audience: Fashion enthusiasts aged 18–35
+Platform: Instagram
+Goal: Increase excitement, shares, and comments before the product launch.
+Style reference: Minimalistic, trendy, confident, and premium.
+
+FEW-SHOT EXAMPLE:
+Rhode Lip gloss
+
+Meet the future of portable lip care.
+The newest lip gloss is here—lighter, bolder, and made to travel with you.
+Tap the link in our bio to explore.
+#Rhode #Hailey
+
+ZERO-SHOT TASK:
+Generate a completely original Instagram caption for the Hailey Bieber × GAP collaboration.
+
+CHAIN OF THOUGHT:
+Before writing:
+1. Identify the audience.
+2. Highlight the collaboration.
+3. Create excitement.
+4. Include a clear CTA.
+5. Add relevant hashtags.
+
+CONSTRAINTS:
+• Maximum 120 words
+• Use exactly 3 emojis
+• Include 5 hashtags
+• End with a Call-To-Action
+• Avoid excessive promotional language
+
+OUTPUT:
+✨ Classic style, reimagined.
+
+Introducing the Hailey Bieber × GAP collection—a modern take on timeless essentials designed for effortless everyday wear. From oversized layers to elevated basics, every piece is made to become your next wardrobe favorite.
+
+Which look are you adding to your closet first? Tell us below. 👇🤍
+
+#GapStyle #HaileyBieber #GapCollection #EverydayEssentials #FashionInspo
